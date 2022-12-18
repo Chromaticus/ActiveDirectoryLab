@@ -24,10 +24,6 @@ Creating Users With PowerShell <br/>
 <img src="https://i.imgur.com/LoXy4lz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-  <p align="center">
-Creating Users With PowerShell <br/>
-<img src="https://i.imgur.com/LoXy4lz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
 
 <!--
  ```diff
